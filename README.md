@@ -16,6 +16,7 @@ sudo mv wpk /usr/local/bin/wpk
 
 ```bash
 wget https://github.com/zer0users/wpk/raw/refs/heads/main/compiled/wpk -O wpk
+chmod +x wpk
 sudo mv wpk /usr/local/bin/wpk
 ```
 
