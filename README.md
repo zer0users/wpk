@@ -1,5 +1,5 @@
 # wpk
-**I made it with the help of Jehovah!**
+**I made wpk with the help of Jehovah! I thank him so much!**
 
 
 **WPK** (Water Package) Is an Package manager for linux, where you can install packages.
